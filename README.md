@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deniskibichiy
+- 👋 Hi, I’m Denis Kibichiy
 - 👀 I’m interested in Web Development and Technical Writing
 - 🌱 I’m currently learning Web Development at The Odin Project
 - 💞️ I’m looking to collaborate on open-source projects.
