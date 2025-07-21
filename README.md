@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denis Kibichiy
-- 👀 I’m interested in Web Development and Technical Writing
+- 👀 I’m a Web Developer and Technical Writer
 - 🌱 I’m currently learning Web Development at The Odin Project
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me denismutai5@gmail.com
